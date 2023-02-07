@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""this module adds all arguments to a list then saves them to a file"""
+"""adds all arguments to a list then saves them to a file"""
 
 
 def main():
